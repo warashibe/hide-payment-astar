@@ -1,0 +1,8 @@
+node_modules
+secrets.json
+#Hardhat files
+cache
+artifacts
+test
+contracts/lib
+scripts
